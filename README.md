@@ -118,3 +118,8 @@ Give it a star to support us!
     <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=fastfetch-cli/fastfetch&type=Date" />
   </picture>
 </a>
+
+
+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
+
+acima token acesso 
